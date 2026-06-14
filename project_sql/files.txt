@@ -5,3 +5,4 @@ company_dim
 skills_dim
 skills_job_dim
 DRIVE LINK  = 'https://drive.google.com/drive/folders/1Uc5ffmBr-jouTo9L_rpMHasixSv48pPS?usp=drive_link'
+use thsi link to download necessary data files 
